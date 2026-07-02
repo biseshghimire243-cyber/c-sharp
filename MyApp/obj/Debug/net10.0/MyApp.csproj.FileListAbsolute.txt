@@ -12,3 +12,4 @@ C:\Users\dell\Desktop\c #\myApp\obj\Debug\net10.0\refint\MyApp.dll
 C:\Users\dell\Desktop\c #\myApp\obj\Debug\net10.0\MyApp.pdb
 C:\Users\dell\Desktop\c #\myApp\obj\Debug\net10.0\MyApp.genruntimeconfig.cache
 C:\Users\dell\Desktop\c #\myApp\obj\Debug\net10.0\ref\MyApp.dll
+C:\Users\dell\Desktop\c #\MyApp\obj\Debug\net10.0\MyApp.sourcelink.json
