@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dell\\Desktop\\c #\\structure_in_c#\\structure_in_c#.csproj": {}
+    "C:\\Users\\dell\\Desktop\\c #\\c #.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dell\\Desktop\\c #\\structure_in_c#\\structure_in_c#.csproj": {
+    "C:\\Users\\dell\\Desktop\\c #\\c #.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dell\\Desktop\\c #\\structure_in_c#\\structure_in_c#.csproj",
-        "projectName": "structure_in_c#",
-        "projectPath": "c:\\Users\\dell\\Desktop\\c #\\structure_in_c#\\structure_in_c#.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\c #\\c #.csproj",
+        "projectName": "c #",
+        "projectPath": "C:\\Users\\dell\\Desktop\\c #\\c #.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dell\\Desktop\\c #\\structure_in_c#\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\c #\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
